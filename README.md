@@ -2,6 +2,8 @@
 
 *Undergraduate dissertation — Mahidol University International College, 2023*
 
+Link to report: [pdf](https://github.com/pavanpreet-gandhi/portfolio-optimization-rl/blob/main/Report.pdf)
+
 ---
 
 ## Overview
